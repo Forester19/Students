@@ -3,7 +3,7 @@ package com.company;
 /**
  * Created by Владислав on 16.09.2016.
  */
-      abstract class Person {
+abstract class Person {
     private String name = "name";
     private int age;
     private int diligence; // max = 100
