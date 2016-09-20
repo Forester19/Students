@@ -12,6 +12,7 @@ public class Main {
 
 
         GroupOfStudents groupOfStudents = new GroupOfStudents(new Student("fa", 19, 50),
+
                 new Student("fi", 19, 23),
                 new Student("fo", 19, 90),
                 new Student("fu", 19, 60));
